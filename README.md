@@ -1,4 +1,4 @@
-<h1>Clone do instagram </h1>
+@ale_allra<h1>Clone do instagram </h1>
 
   <p>•Recriação do instagram apenas usando HTML & Css. Já está completa <b>(feed)</b>, porem, quero adicionar mais coisas para deixar o mais similar possivel mais para frente. </p> <br>
   
